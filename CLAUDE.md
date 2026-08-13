@@ -40,12 +40,14 @@ The system automatically suggests `/getting-started` at next session if vault < 
 ## User Profile
 
 <!-- Updated during onboarding -->
-**Name:** Not yet configured
-**Role:** Not yet configured
-**Company Size:** Not yet configured
-**Working Style:** Not yet configured
+**Name:** Megan Asikainen
+**Role:** Director of Product Management — Frontier Team @ Granicus
+**Company Size:** Enterprise (1,000-10,000)
+**Working Style:** Deep domain/customer background (came from the customer side); actively building technical skills per direct CPO feedback. Leading a brand-new frontier team as a guinea pig for the frontier operating model — small, quick-win products built on frontier models. Remit: talk to customers → design a product → ship an initial MVP to demo to customers by end of August 2026.
 **Pillars:**
-- Not yet configured
+- **Frontier Product Delivery** — customer discovery → demo-ready MVP by end of August 2026
+- **Technical Skill Building** — build the technical depth to lead a frontier AI team credibly
+- **Role Transition Completion & Handoffs** — finish/hand off prior responsibilities (Operations Cloud packaging & SKUs, GovQA handoff to Katherine) cleanly as she moves into the Frontier role
 
 ---
 

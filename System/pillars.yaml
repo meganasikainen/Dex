@@ -14,17 +14,61 @@
 #
 # The Work MCP uses these to categorize tasks and check balance across your work.
 
-pillars: []
-  # Will be populated during onboarding
-  # Example structure:
-  # - id: pillar_id
-  #   name: "Pillar Name"
-  #   description: "What this pillar represents"
-  #   keywords:
-  #     - keyword1
-  #     - keyword2
-
-# Priority limits (how many active tasks per priority level)
+pillars:
+  - id: frontier_products
+    name: "Frontier Product Delivery"
+    description: "Lead the frontier team from customer discovery to a demo-ready MVP built on frontier models. Prove out the frontier operating model with small, quick-win products. Target: initial MVP demoed to customers by end of August 2026."
+    keywords:
+      - frontier
+      - mvp
+      - demo
+      - customer discovery
+      - customer interview
+      - product design
+      - prototype
+      - quick win
+      - frontier operating model
+      - roadmap
+      - launch
+      - ai product
+      - frontier model
+  - id: technical_skills
+    name: "Technical Skill Building"
+    description: "Deliberately build the technical depth needed to lead a frontier AI team credibly. Direct CPO feedback flagged this as key to success. Covers hands-on work with LLMs/frontier models, architecture literacy, and prototyping."
+    keywords:
+      - learn
+      - technical
+      - engineering
+      - architecture
+      - llm
+      - frontier model
+      - prototype
+      - hands-on
+      - upskill
+      - code
+      - api
+      - eval
+      - skill building
+  - id: role_transition
+    name: "Role Transition Completion & Handoffs"
+    description: "Cleanly wrap up and hand off prior responsibilities as Megan moves into the Frontier team Director role. Includes finishing in-flight commitments (e.g., Operations Cloud packaging/pricing & SKUs), transitioning GovQA and other ownership to successors (e.g., onboarding Katherine Hale), and ensuring nothing is dropped in the transition."
+    keywords:
+      - transition
+      - handoff
+      - handover
+      - onboarding
+      - onboard
+      - packaging
+      - pricing
+      - sku
+      - operations cloud
+      - govqa
+      - records request
+      - agenda
+      - video
+      - wrap up
+      - successor
+      - knowledge transfer
 priority_limits:
   P0: 3   # Critical/urgent - max 3 at a time
   P1: 5   # Important - max 5 at a time
